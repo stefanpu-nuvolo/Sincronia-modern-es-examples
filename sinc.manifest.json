@@ -1,0 +1,69 @@
+{
+  "tables": {
+    "sys_script_include": {
+      "records": {
+        "Keywords_as_onject_properties": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "Keywords_as_onject_properties",
+          "sys_id": "5132734bdb009810ac32ec51ca961961"
+        }
+      }
+    },
+    "sys_ui_page": {
+      "records": {
+        "sinc-modern-es-examples": {
+          "files": [
+            {
+              "name": "client_script",
+              "type": "js"
+            },
+            {
+              "name": "html",
+              "type": "xml"
+            },
+            {
+              "name": "processing_script",
+              "type": "js"
+            }
+          ],
+          "name": "sinc-modern-es-examples",
+          "sys_id": "1e5a2383db009810ac32ec51ca96195f"
+        }
+      }
+    },
+    "sys_ui_script": {
+      "records": {
+        "x_nuvo_sinc_modern.app": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "x_nuvo_sinc_modern.app",
+          "sys_id": "1781b70bdb009810ac32ec51ca9619f9"
+        }
+      }
+    },
+    "sys_ws_operation": {
+      "records": {
+        "keywords (sinc-modern-es-examples)": {
+          "files": [
+            {
+              "name": "operation_script",
+              "type": "js"
+            }
+          ],
+          "name": "keywords (sinc-modern-es-examples)",
+          "sys_id": "14bdf7c3db409810ac32ec51ca9619b7"
+        }
+      }
+    }
+  },
+  "scope": "x_nuvo_sinc_modern"
+}
