@@ -61,6 +61,16 @@
           ],
           "name": "keywords (sinc-modern-es-examples)",
           "sys_id": "14bdf7c3db409810ac32ec51ca9619b7"
+        },
+        "promises (sinc-modern-es-examples)": {
+          "files": [
+            {
+              "name": "operation_script",
+              "type": "js"
+            }
+          ],
+          "name": "promises (sinc-modern-es-examples)",
+          "sys_id": "97814d1fdb049810ac32ec51ca961933"
         }
       }
     }
